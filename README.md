@@ -1,5 +1,5 @@
 # ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
-# Name: SUBIKSHA K
+# Name: L Ganesh Kanna
 # Register Number: 212225230072
 # Aim:
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
