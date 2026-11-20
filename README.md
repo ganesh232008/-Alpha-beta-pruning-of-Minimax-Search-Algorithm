@@ -198,5 +198,5 @@ def play_alpha_beta(self):
 # OUTPUT:
 <img width="767" height="760" alt="image" src="https://github.com/user-attachments/assets/ab4b54d6-1f02-4da0-b8a4-00fbaa1eba69" />
 
-RESULT:
+# RESULT:
 Thus, the program was executed successfully.
